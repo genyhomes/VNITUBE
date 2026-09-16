@@ -161,3 +161,5 @@ d:\Project\Vnitube\
 ## 5. Xác nhận & Phản hồi
 
 Bạn có đồng ý với kế hoạch triển khai trên không? Nếu có bất kỳ điều chỉnh nào về tính năng hoặc giao diện, vui lòng cho tôi biết để cập nhật trước khi tiến hành viết mã.
+
+**Full Code Python:** https://forumviet.com/threads/share-full-code-phan-mem-download-video-mien-phi-tu-youtube-facebook-tiktok.5558/
