@@ -1,5 +1,11 @@
 # VNITUBE
 Phần mềm Download video miễn phí từ youtube, facebook.. trên windows - VNITUBE PRO. Mình tự code bằng Python kết hợp FFmpeg
+Các trang web được hỗ trợ:
+YouTube (chính)
+Tiktok
+Vimeo
+Facebook
+DailyMotion
 
 Download
 
